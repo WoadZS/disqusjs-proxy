@@ -1,6 +1,9 @@
 {
     "version": 2,
     "name": "disqusjs-proxy",
+    "alias": [
+        "https://disqusjs-proxy.woadzs.me/"
+            ],
     "routes": [
         {
             "src": "/(.*)",
